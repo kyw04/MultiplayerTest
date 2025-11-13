@@ -5,6 +5,8 @@
 
 MyClass::MyClass()
 {
+
+	
 }
 
 MyClass::~MyClass()
